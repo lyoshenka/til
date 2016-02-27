@@ -9,4 +9,4 @@ buy online and shipping that ball to your house costs $2, then the capitalized c
 > If the value of a house is $1 lower whenever the present value of the stream of property tax payments on the house is $1 higher, then
 > property taxes are said to be fully capitalized into house values; in other words, the degree of tax capitalization is 100%.
 
-[source](http://faculty.maxwell.syr.edu/jyinger/books/property_tax/Property_Tax_Ch1.pdf)
+[source](../ref/Property_Tax_Ch1.pdf)
